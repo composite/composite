@@ -19,3 +19,22 @@
 ```
 
 ![You had enough privilege for rest while you living because you can have comfortable relax after you die though.](https://res.cloudinary.com/practicaldev/image/fetch/s--sy8ZkrUV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/av606rjwkei2acvjjzhj.png)
+
+---
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=composite&count_private=true&show_icons=true&theme=github_dark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=composite&count_private=true&show_icons=true&theme=github_dark" />
+</a>
+
+### Websites
+
+- [Website](http://comne.kr)
+- [Blog 🇺🇸🇰🇷](https://dev.to/composite)
+- [Blog Mirror 🇰🇷](https://velog.io/@composite)
+
+Have fun!
+
+<sup>Composite</sup>

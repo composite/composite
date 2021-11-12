@@ -31,6 +31,7 @@
 
 ---
 
+**Websites:**
 [Website](http://comne.kr)
 |
 [Blog 🇺🇸🇰🇷](https://dev.to/composite)
@@ -38,5 +39,4 @@
 [Blog Mirror 🇰🇷](https://velog.io/@composite)
 
 Have fun!
-
-<sup>Composite</sup>
+<sub>Composite</sub>

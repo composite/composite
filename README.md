@@ -29,11 +29,13 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=composite&count_private=true&show_icons=true&theme=github_dark" />
 </a>
 
-### Websites
+---
 
-- [Website](http://comne.kr)
-- [Blog 🇺🇸🇰🇷](https://dev.to/composite)
-- [Blog Mirror 🇰🇷](https://velog.io/@composite)
+[Website](http://comne.kr)
+|
+[Blog 🇺🇸🇰🇷](https://dev.to/composite)
+|
+[Blog Mirror 🇰🇷](https://velog.io/@composite)
 
 Have fun!
 
